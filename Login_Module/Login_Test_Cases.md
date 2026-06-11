@@ -28,8 +28,4 @@
 
 - User should be successfully authenticated and redirected to the dashboard/home page.
 
-**Actual Result:**
 
-- User was successfully authenticated and redirected to the dashboard.
-
-**Status:** Pass
